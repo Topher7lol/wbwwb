@@ -4,46 +4,46 @@
 
 var textStrings_EN = {
 	// Act 1
-	"niceHat": "OOH NICE HAT",
-	"outtaHere": "yeah git on outta here",
-	"getARoom": "GROSS, GO GET A ROOM",
-	"notCoolAnymore": "nvm hats aren't cool anymore",
-	"tvOnTv": "A TV... ON TV!",
-	"cricky": "LIL' CRICKY <3",
-	"tooManyCrickets": "okay that's too many crickets",
-	"normalPeep": "just a normal peep",
-	"normalPeeps": "just some normal peeps",
-	"wowNothing": "WOWWEE, IT'S NOTHING",
+	"niceHat": "Nice Hat Mf",
+	"outtaHere": "Yeah Get Tf Outta Here",
+	"getARoom": "GO GET A HOTEL DUMBASS",
+	"notCoolAnymore": "Hats aren't fucking cool anymore",
+	"tvOnTv": "That's A Mf TV. No Shit",
+	"cricky": "It's A Fucking Cricket What Do You Expect",
+	"tooManyCrickets": "It's A Fucking Cricket Party",
+	"normalPeep": "It's A Person Dumbass",
+	"normalPeeps": "Just Dumb People",
+	"wowNothing": "Woah It's Nothing, So Cool.",
 
 	// Act 2
-	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
-	"justMissed": "oooooh just missed it",
-	"somethingInteresting": "(ya gotta catch 'em doing *something* interesting...)",
-	"whoIsScreaming": "(ya gotta catch who's screaming at 'em)",
-	"circleFearsSquares": "CIRCLE FEARS SQUARES",
-	"whoScaresThem": "(ya gotta also catch *who* they're scared by)",
-	"areTheyScared": "(ya gotta catch 'em *being* scared by a square)", // not used
-	"squaresSnubCircles": "SQUARES SNUB CIRCLES",
+	"crazySquareAttacks": "I'm Betting 10k On The Squares",
+	"justMissed": "Nigga You JUST Missed It Lmao",
+	"somethingInteresting": "Can You Capture Interesting Shit Please?",
+	"whoIsScreaming": "THEY MUST SCREAM",
+	"circleFearsSquares": "Circles Are Now Racist Towards Squares",
+	"whoScaresThem": "Please Catch Who Their Scared By",
+	"areTheyScared": "They Must Be Skare", // not used
+	"squaresSnubCircles": "The Squares Hate Circles!",
 	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "EVERYONE HATES EVERYONE!!1!",
-	"almostEveryoneHates": "ALMOST EVERYONE HATES EVERYONE...",
-	"squaresHateCircles": "SQUARES HATE CIRCLES",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
+	"everyoneHates": "Lol. It's Dangerous. It's A War.",
+	"almostEveryoneHates": "Almost Everyone Hates Each Other",
+	"squaresHateCircles": "SQUARES HOPE CIRCLES ROT",
+	"circlesHateSquares": "CIRCLES HOPE SQAURES ROT",
 	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "what are these nerds doing now",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "whatever",
+	"nerdsNow": "Woah Look At These Nerds",
+	"schockedPeep": "What's This Mf Shocked About, Exactly?",
+	"whatever": "Whatever Nigga",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "hats ain't cool no more, haven't you heard?",
-	"beScared": "BE SCARED. BE ANGRY.",
+	"coolNoMore": "HATS ARE FUCKING UGLY TAKE IT OFF",
+	"beScared": "BE SCARED. KILL EACH OTHER. RACISM. BE RACIALLY MOTIVATED. GUNS ARE LEGAL. PURGE",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"who tunes in to watch *people get along?*",
-		"peace is boring. violence goes viral.",
+		"Yawn Who Likes Peoples Getting Along",
+		"Violence Is Viral. Peace Is  D E M I S E D",
 		//"peace is boring. conflict gets clicks." ,
 		"and every story needs a conflict, so...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
@@ -60,11 +60,11 @@ var textStrings_EN = {
 	"pointAndClick": "POINT & CLICK",
 
 	// (chyron3.png)
-	"chyronNothing": "WOWWEE, IT'S *NOTHING*",
+	"chyronNothing": "DUMBASS THERES NOTHING THERE",
 
 	// (credits0001.png)
 	"createdBy": "created by",
-	"NickyCase": "Nicky Case",
+	"NickyCase": "Your Mim",
 
 	// (credits0002.png)
 	"manyThanks": "many thanks to my playtesters:",
